@@ -9,12 +9,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses an AND gate connected to two inputs to control a led
 
 ## How to test
 
-Explain how to use your project
+Activate both input A and B then the LED is active 
+
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Single acting button 
+LED
+220 ohm resistor
+1k pulldown resistor
